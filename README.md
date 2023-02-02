@@ -29,14 +29,14 @@ Escolhemos as cores _Mist_ e _Midnight_ que fazem parte da [paleta de tintas ris
 
 * RGB: 184, 199, 196 
 * CMYK: 15, 4, 11, 6 
-* HEX: B8C7C4 
+* HEX: [B8C7C4](https://www.color-hex.com/color/b8c7c4) 
 * PANTONE: 5527 U
 
 **Midnight**
 
 * RGB: 67, 80, 96 
 * CMYK: 98, 60, 33, 47 
-* HEX: 435060 
+* HEX: [435060](https://www.color-hex.com/color/435060) 
 * PANTONE: 296 U
 
 ## Tipografia
@@ -51,5 +51,5 @@ A tipografia é parte fundamental da marca, é ela que nos revela a voz, o tom d
 
 ## Arquivos disponíveis
 
-* Manual de identidade da marca
-* Marca SVG (sem borda)
+* [Manual de identidade da marca](monstro-dos-mares_ID.pdf)
+* [Marca SVG (sem borda)](monstro-dos-mares_sem-borda.svg)
