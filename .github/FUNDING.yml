@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+
+github: 
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: monstrodosmares
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+custom: ['https://www.catarse.me/monstromensal', 'https://apoia.se/monstrodosmares', 'https://app.picpay.com/user/monstrodosmares', 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PCHCSQNHJSZKA&item_name=support+/+apoio+monstro+dos+mares&currency_code=BRL&source=url']
